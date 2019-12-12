@@ -1,0 +1,25 @@
+{
+  "name": "js-gesture-commands",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Practice using Tensorflow js to interpret a series of gestures as commands for actions.",
+  "main": "build/index.js",
+  "repository": "git@github.com:itotallyrock/js-gesture-commands.git",
+  "author": "itotallyrock <itotallyrock@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@koa/cors": "^3.0.0",
+    "@koa/router": "^8.0.5",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-json": "^2.0.2",
+    "koa-logger": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/koa-logger": "^3.1.1",
+    "@types/koa__router": "^8.0.2",
+    "ts-node": "^8.5.4",
+    "tsconfig-paths": "^3.9.0",
+    "typescript": "^3.7.3"
+  }
+}
