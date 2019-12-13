@@ -1,3 +1,9 @@
+
+build/
+
+
+### Github Generated NodeJS gitignore
+
 # Logs
 logs
 *.log
